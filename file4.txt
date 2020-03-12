@@ -1,1 +1,4 @@
 This is file4.txt.
+
+Adding some more lines.
+Now is the time.
